@@ -1,0 +1,9 @@
+{
+    "pageTitle": "Interjútesztalkalmazás",
+    "inputHint": "Írd be a szöveged...",
+    "outputOfText": "beírt szöveg kimenete:",
+    "submit": "Beküldés",
+    "congrats": "Gratulálunk, teljesítette ezt a feladatot!",
+    "input": "A beviteled a következő volt:",
+    "wrong": "Valami nincs rendben, nincs bemenet."
+}

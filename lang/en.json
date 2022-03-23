@@ -1,0 +1,9 @@
+{
+    "pageTitle": "Interview Test App",
+    "inputHint": "Type in your text...",
+    "outputOfText": "output of text entered:",
+    "submit": "Submit",
+    "congrats": "Congratulations, you completed this task!",
+    "input": "Your input was:",
+    "wrong": "Something is wrong, there is no input."
+}
